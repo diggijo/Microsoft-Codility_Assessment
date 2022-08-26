@@ -1,5 +1,8 @@
 package Tasks;
 
+/* Given a string S, return the maximum number of unique substrings that the given string can be split into.
+* Example: Cycle can be split into 2 substring (Cy, Cle) or (C, Ycle) */
+
 public class Task1 {
     public static void main(String[] args) {
         Task1 sol = new Task1();
